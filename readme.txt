@@ -1,5 +1,3 @@
-ushahidi_rsscategories
-======================
 === About ===
 
 name: rsscategories <br>
